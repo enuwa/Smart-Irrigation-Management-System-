@@ -16,6 +16,27 @@
 20-21	- References
 22-24    	- Appendices
 
+
+ Belbin Role :Project Coordinator
+ Name:  Samuel Emokpae
+ Technical Skills: Proficient in front-end development React Native, C# and .NET framework, Github agile development team 
+ With just few days of interaction, he was able to get a good understanding of each members capabilities and  confidently delegate  responsibilities accordingly.
+ Strength: He  also puts emphasis  on clarifying our project goals  so that we are on the right track .MSc.Big Data Analytics 
+ 
+ Name             Belbin Role      Technical Skills       Strength
+Belbin Role: Complete Finisher
+Name : Nasser Mohammed 
+      
+ Technical Skills: Highly skilled Visualization Expert, possess  extensive experience working with the .Net framework, delivers impactful visualizations that facilitate informed decision-making
+Strength: I have an analytical  mindset which comes from my background in MSC. Big Data Analytics, I am  able to quickly identify strengths,weakness and rectify errors  in our project  and suggest  recommendations.
+
+Belbin Role: Implementer
+Name :James Alexander
+
+Technical Skills : Proficient in .Net framework , frontend web and mobile application development, web security expert, expert in RESTful APIs
+Strength: I am able to work in a systematic and organised manner, with a strong ability of turning ideas into actions. I strive to look for practical solutions that can be implemented effectively.
+
+
 Optimising water use in agriculture. Provide recommendations through machine learning technology. Provide a hardware and software based solution, tailored to specific farming requirements.
 
 Project Overview
@@ -42,9 +63,8 @@ Poor crop quality
 Strain on local ecosystems
 Drought
 
-Functional Analysis
-Functional Requirements
-
+                                  Functional Analysis
+   Functional Requirements
 Mobile Application
 
 User Registration.
@@ -69,7 +89,7 @@ Water source information
 Crop type information API: Growth stages, Crop coefficient 
 Soil Information API: User-input for soil type.
 
-Non-functional Requirements:
+   Non-functional Requirements:
 
 Performance
 
